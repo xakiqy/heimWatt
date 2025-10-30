@@ -1,0 +1,41 @@
+{
+  "Login.Header.Label" : "Welcome Back!",
+  "Login.Sub.Label" : "Good to see you again! Log in to access your projects, tools, and personalized updates.",
+  "Login.Signup.Label" : "Don’t have an account?",
+  "Login.Signup.Url.Label" : "Sign Up",
+
+  "Registration.Header.Label" : "Create Your Account",
+  "Registration.Sub.Label" : "Join Customer Portal today — your account gives you easy access to all your projects, tools, and updates.",
+  "Registration.Password.First.Rule" : "Use 8–12 characters or more",
+  "Registration.Password.Second.Rule" : "Mix uppercase and lowercase letters",
+  "Registration.Password.Third.Rule" : "Include at least one number",
+  "Registration.Password.Fourth.Rule" : "Add a special character (! @ # $ % ^ & * ?)",
+  "Registration.Email.Valid" : "Valid email",
+
+  "Registration.Terms.Span.One" : "Agree to the",
+  "Registration.Terms.Span.Two" : "Terms of Service",
+  "Registration.Terms.Span.Three" : "and",
+  "Registration.Terms.Span.Four" : "Privacy Policy.",
+  "Registration.Button.Label" : "Create Account",
+
+  "Password.Recovery.Label" : "Password Recovery",
+  "Password.Recovery.Sub.Label" : "Enter the email associated with your account and we’ll send you a reset password link.",
+
+  "Password.Recovery.Success.Label" : "Check Your Email",
+  "Password.Recovery.Success.Sub.One.Label" : "Password reset link sent to",
+  "Password.Recovery.Success.Sub.Two.Label" : "Check your inbox (including Spam or Promotions).",
+  "Password.Recovery.No.Email.Received" : "Didn’t receive the email?",
+
+
+  "Email.Label" : "Email",
+  "Email.Input.Hint" : "e.g. yourname@example.com",
+  "Password.Label" : "Password",
+  "Password.Input.Hint" : "••••••••",
+  "Password.Forgot.Label" : "Forgot Password?",
+
+  "Remember.Me.Label" : "Remember me",
+  "Login.Label" : "Log in",
+  "Go.Back" : "Go Back",
+  "Resend" : "Resend",
+  "Continue" : "Continue"
+}
