@@ -27357,7 +27357,7 @@ j.b6()
 j.a14(null,null,o)
 p.ch$!==$&&A.aK()
 p.ch$=j
-k=j}p.X3(new A.CQ(m,new A.yp(new A.P1(null),q,new A.dI("en",null,null),"translations",null),l,k,null))
+k=j}p.X3(new A.CQ(m,new A.yp(new A.P1(null),q,new A.dI("en",null,null),"assets/translations",null),l,k,null))
 p.Iv()
 return A.N(null,r)}})
 return A.O($async$ay8,r)},
